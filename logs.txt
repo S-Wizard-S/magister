@@ -1,0 +1,5 @@
+INFO: User logged in
+ERROR: Failed to connect to database
+INFO: Data processed successfully
+ERROR: Timeout while fetching data
+INFO: User logged out
